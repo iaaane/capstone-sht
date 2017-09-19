@@ -173,7 +173,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.riewolf.com" target="_blank">About us</a>
+<a href="about.php" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
@@ -198,7 +198,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <img src="image/iandp.jpg" width=100 height=100 alt="Ian Estabillo" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="https://www.facebook.com/iaaane" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Ian Estabillo (Click for more)</a>
+		<a href="more/index.html" target="_blank" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Ian Estabillo (Click for more)</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+639275823589</h4>
 		<h4 style="font-family:'typo' ">ianerdestabillo@gmail.com</h4>
 		<h4 style="font-family:'typo' ">CAPSTONE 2017 CSU-SM </h4></div></div>
